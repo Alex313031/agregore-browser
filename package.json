@@ -182,6 +182,7 @@
   },
   "homepage": "https://github.com/AgregoreWeb/agregore-browser#readme",
   "devDependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.4",
     "@netless/extension-flat": "^1.0.1",
     "electron": "23.0.0-beta.2",
     "electron-builder": "^23.6.0",
